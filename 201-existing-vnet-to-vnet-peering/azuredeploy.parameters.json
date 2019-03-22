@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "existingLocalVirtualNetworkName": {
-      "value": "vnet1"
+      "value": "vn_wim_2"
     },
     "existingRemoteVirtualNetworkName": {
-      "value": "vnet2"
+      "value": "vn_wim_3"
     },
     "existingRemoteVirtualNetworkResourceGroupName": {
-      "value": "vnet2-rg"
+      "value": "plp-rg-vn-wim"
     }
   }
 }
